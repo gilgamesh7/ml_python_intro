@@ -1,6 +1,9 @@
 # ml_python_intro
  Introduction to Machine Learning with Python Andreas C. Müller, Sarah Guido  Published by O'Reilly Media, Inc.
 
+Machine Learning For Dummies, 3rd Edition Luca Massaron, John Paul Mueller Published by O'Reilly Media, Inc.
+
+
 
 # Links
 1. [scikit-learn](https://scikit-learn.org/stable/)
